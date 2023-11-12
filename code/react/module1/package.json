@@ -1,0 +1,16 @@
+{
+    "name": "module1",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+      "test": "echo test"
+    },
+    "dependencies": {
+      "react": "18.2.0"
+    },
+    "devDependencies": {
+      "@types/react": "18.2.15"
+    }
+  }
+  
